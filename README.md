@@ -1,0 +1,1 @@
+# TRAMBO-Aegisub-Automation-CurvedText
